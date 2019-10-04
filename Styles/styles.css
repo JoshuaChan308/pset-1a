@@ -3,23 +3,19 @@
     padding: 0;
 }
 
-span {
-  color: green
-}
-
-H2 {
+h2 {
   color: black;
   font size: 30 px;
 }
 
-Footer {
+footer {
   Color: Darkblue;
   Font size: 18 px;
 }
 
 .fancy {
-  font-weight: italics;
-  Color: gray;
+  font-style: italic;
+  Color: black;
 }
 
 .angry {
@@ -60,5 +56,14 @@ ol{
 ul
 {
   marginleft: 50px;
-  padding: 25px;
+  padding: 20px;
+}
+
+.space {
+       Margin: 25;
+       Padding: 25;
+]
+
+Li [class^="a"] {
+    font-weight: bold;
 }
