@@ -1,0 +1,61 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+  color: green
+}
+
+H2 {
+  color: black;
+  font size: 30 px;
+}
+
+Footer {
+  Color: Darkblue;
+  Font size: 18 px;
+}
+
+.fancy {
+  font-weight: italics;
+  Color: gray;
+}
+
+.angry {
+  Font-weight: bold;
+  Color: red;
+}
+
+a: hover {
+  color: navy;
+}
+
+a: visited {
+  color: purple;
+}
+
+#important {
+  Font-weight: bold;
+  Color: black;
+}
+
+#tennis {
+  background color: green;
+}
+
+#big {
+  Font Size: 50;
+  Color: black;
+}
+
+ol{
+  marginleft: 50px;
+  padding: 25px;
+}
+
+ul
+{
+  marginleft: 50px;
+  padding: 25px;
+}
