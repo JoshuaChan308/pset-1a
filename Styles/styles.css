@@ -40,11 +40,11 @@ a: hover {
 }
 
 #tennis {
-  background color: green;
+  Color: green;
 }
 
 #big {
-  Font Size: 50;
+  Font-Size: 20px;
   Color: black;
 }
 
@@ -55,13 +55,12 @@ ol{
 
 ul
 {
-  marginleft: 50px;
-  padding: 20px;
+  marginleft: 40px;
+  padding: 15px;
 }
 
 .space {
-       Margin: 25;
-       Padding: 25;
+       Margin-top:5px;
 ]
 
 Li [class^="a"] {
