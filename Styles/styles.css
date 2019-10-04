@@ -27,12 +27,15 @@ Footer {
   Color: red;
 }
 
-a: hover {
-  color: navy;
+A: link {
+  color: darkblue;
 }
 
 a: visited {
-  color: purple;
+  Color: purple;
+}
+a: hover {
+  Color: navy;
 }
 
 #important {
