@@ -34,9 +34,6 @@ A: link {
 a: visited {
   Color: purple;
 }
-a: hover {
-  Color: navy;
-}
 
 #important {
   Font-weight: bold;
