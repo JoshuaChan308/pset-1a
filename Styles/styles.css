@@ -13,6 +13,10 @@ footer {
   Font size: 18 px;
 }
 
+h1+p {
+  margin-top:10px;
+}
+
 .fancy {
   font-style: italic;
   Color: black;
