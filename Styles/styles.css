@@ -13,12 +13,19 @@ footer {
   Font size: 18 px;
 }
 
-h1+p {
-  margin-top:10px;
+ol{
+  marginleft: 50px;
+  padding: 25px;
 }
 
-a[href*="https"] {
-  color: mediumblue;
+ul
+{
+  marginleft: 40px;
+  padding: 15px;
+}
+
+h1+p {
+  margin-top:10px;
 }
 
 .fancy {
@@ -31,12 +38,20 @@ a[href*="https"] {
   Color: red;
 }
 
-A: link {
-  color: darkblue;
+.space {
+       Margin-top:5px;
+]
+
+a:link {
+  Color: blue;
 }
 
-a: visited {
-  Color: purple;
+a[href*="https"] {
+  Color: dodgerblue;
+}
+
+a:hover {
+  Color: red
 }
 
 #important {
@@ -58,21 +73,6 @@ a: visited {
   Color: black;
 }
 
-ol{
-  marginleft: 50px;
-  padding: 25px;
-}
 
-ul
-{
-  marginleft: 40px;
-  padding: 15px;
-}
 
-.space {
-       Margin-top:5px;
-]
 
-Li [class^="a"] {
-    font-weight: bold;
-}
