@@ -17,6 +17,10 @@ h1+p {
   margin-top:10px;
 }
 
+a[href*="https"] {
+  color: mediumblue;
+}
+
 .fancy {
   font-style: italic;
   Color: black;
