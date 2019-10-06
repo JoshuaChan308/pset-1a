@@ -53,6 +53,11 @@ a: visited {
   Color: black;
 }
 
+#mediumbig {
+  Font-Size: 16px;
+  Color: black;
+}
+
 ol{
   marginleft: 50px;
   padding: 25px;
