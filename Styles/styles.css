@@ -3,6 +3,37 @@
     padding: 0;
 }
 
+a:link {
+  Color: blue;
+}
+
+a[href*="https"] {
+  Color: dodgerblue;
+}
+
+a:hover {
+  Color: red
+}
+
+#important {
+  Font-weight: bold;
+  Color: black;
+}
+
+#tennis {
+  Color: green;
+}
+
+#big {
+  Font-Size: 20px;
+  Color: black;
+}
+
+#mediumbig {
+  Font-Size: 17px;
+  Color: black;
+}
+
 h2 {
   color: purple;
   font size: 30 px;
@@ -45,38 +76,3 @@ h1+p {
 .space {
        Margin-top:10px;
 ]
-
-a:link {
-  Color: blue;
-}
-
-a[href*="https"] {
-  Color: dodgerblue;
-}
-
-a:hover {
-  Color: red
-}
-
-#important {
-  Font-weight: bold;
-  Color: black;
-}
-
-#tennis {
-  Color: green;
-}
-
-#big {
-  Font-Size: 20px;
-  Color: black;
-}
-
-#mediumbig {
-  Font-Size: 17px;
-  Color: black;
-}
-
-
-
-
