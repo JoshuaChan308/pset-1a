@@ -1,6 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+  margin: 5px;
+  padding: 0px;
 }
 
 a:link {
@@ -31,6 +31,10 @@ a:visited {
 #mediumbig {
   Font-Size: 17px;
   Color: black;
+}
+
+#left {
+  Margin-left:3px
 }
 
 h2 {
