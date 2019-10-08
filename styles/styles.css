@@ -12,7 +12,11 @@ a[href*="https"] {
 }
 
 a:hover {
-  Color: red
+  Color: red;
+}
+
+a:visited {
+  Color: Purple;
 }
 
 #tennis {
